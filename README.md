@@ -11,7 +11,7 @@ The sample app used throughout the course is NOT included in these files or repo
 For each of the videos in the class that have hands-on working with the code, we have included instructions on how to get it working on your machine. Of course, over time, these instructions might become outdated (we do accept pull requests!), but the goal of the class is to give you examples of how it could work for your organization in a descriptive way, not a prescriptive way.  
 
 As you go through each video segment, you can follow along on your own if you follow these prerequisites. 
-
+Romeo: Good luck!
 ## Prerequisites
 
 Install Docker Desktop from https://www.docker.com/
