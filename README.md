@@ -1,3 +1,4 @@
+## Changes done by Romeo
 # Basic Continuous Delivery Pipeline
 
 This course covers a wide range of topics from version control with git to CI with Jenkins to testing tools. Some of our environment runs in docker and some on the local machine to simulate development. For each video, we have included some setup instructions and dependencies needed.  The instructions below assume a Mac, however finding a Windows equivalent is often possible. The goal of the course is not to teach you everything about how to set up these tools, the lab is intended to illustrate the core continuous delivery principles with tangible working code.
@@ -6,12 +7,12 @@ These course materials are also available at https://github.com/wickett/continuo
 
 The sample app used throughout the course is NOT included in these files or repo. The application is available at https://github.com/wickett/word-cloud-generator
 
+
 ## Getting Started
 
 For each of the videos in the class that have hands-on working with the code, we have included instructions on how to get it working on your machine. Of course, over time, these instructions might become outdated (we do accept pull requests!), but the goal of the class is to give you examples of how it could work for your organization in a descriptive way, not a prescriptive way.  
 
 As you go through each video segment, you can follow along on your own if you follow these prerequisites. 
-Romeo: Good luck!
 ## Prerequisites
 
 Install Docker Desktop from https://www.docker.com/
